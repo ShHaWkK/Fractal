@@ -1,1 +1,4 @@
 # Mandelbrot_fractal
+
+## Display
+
