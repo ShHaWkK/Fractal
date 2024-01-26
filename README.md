@@ -1,4 +1,4 @@
-# Mandelbrot_fractal
+# Mandelbrot_fractal Assembly x32-64
 
 ## Display
 
