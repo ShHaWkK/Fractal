@@ -2,3 +2,4 @@
 
 ## Display
 
+<img src="Mandelbrot.png">
